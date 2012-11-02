@@ -77,7 +77,7 @@ namespace UDMLoader
                             }
                             catch (Exception ve)
                             {
-                                MessageBox.Show(ve.Message);
+                                FISCA.RTOut.WriteLine(ve.Message);
                             }
                         }
                     }
@@ -85,13 +85,24 @@ namespace UDMLoader
                 ((vTask) =>
                     {
                         if (FISCA.RTContext.IsDiagMode)
-                            FISCA.Presentation.MotherForm.StartMenu["進階工具"]["UDM自動安裝列表"].Click += (xsender, xe) => FISCA.Presentation.Controls.MsgBox.Show(string.Join(System.Environment.NewLine, InstalledURLs));
+                            FISCA.Presentation.MotherForm.StartMenu["進階工具"]["UDM自動安裝列表"].Click += (xsender, xe) =>
+                            {
+
+                                if (InstalledURLs.Count == 0)
+                                    FISCA.RTOut.WriteLine("無安裝任何UDM模組。");
+                                else
+                                {
+                                    string Message = "已安裝的UDM模組網址清單" + System.Environment.NewLine + InstalledURLs;
+
+                                    FISCA.RTOut.WriteLine(Message);
+                                }
+                            };
                     }
                 );
             }
             catch (Exception e)
             {
- 
+                FISCA.RTOut.WriteLine(e.Message);
             }
         }
     }

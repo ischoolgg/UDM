@@ -1,4 +1,17 @@
 <UDMInstall>
 	<Common>
 	</Common>
+
+    <UDM Url="https://module.ischool.com.tw/module/137815/transcript/udm.xml">
+        <ApplyTo>dev.sh_d</ApplyTo>
+    </UDM>
+
+    <UDM Url="https://module.ischool.com.tw/module/137815/AttendanceDiscipline/udm.xml">
+        <ApplyTo>dev.sh_d</ApplyTo>
+    </UDM>
+
+    <UDM Url="https://module.ischool.com.tw/module/137815/exam/udm.xml">
+        <ApplyTo>dev.sh_d</ApplyTo>
+    </UDM> 
+
 </UDMInstall>
