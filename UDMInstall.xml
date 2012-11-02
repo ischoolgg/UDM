@@ -4,14 +4,45 @@
 
     <UDM Url="https://module.ischool.com.tw/module/137815/transcript/udm.xml">
         <ApplyTo>dev.sh_d</ApplyTo>
+        <ApplyTo>test.hc.edu.tw</ApplyTo>
+        <ApplyTo>h.trialschool.tw</ApplyTo>
+        <ApplyTo>dljh.tcc.edu.tw</ApplyTo>
+        <ApplyTo>j.dljh.tcc.edu.tw</ApplyTo>
+        <ApplyTo>chhs.hcc.edu.tw</ApplyTo>
+        <ApplyTo>sivs.chc.edu.tw</ApplyTo>
+        <ApplyTo>chsc.chc.edu.tw</ApplyTo>
+        <ApplyTo>h.kcbs.ntpc.edu.tw</ApplyTo>
+        <ApplyTo>j.kcbs.ntpc.edu.tw</ApplyTo>
+        <ApplyTo>shinmin.tc.edu.tw</ApplyTo>
     </UDM>
 
     <UDM Url="https://module.ischool.com.tw/module/137815/AttendanceDiscipline/udm.xml">
         <ApplyTo>dev.sh_d</ApplyTo>
+        <ApplyTo>test.hc.edu.tw</ApplyTo>
+        <ApplyTo>h.trialschool.tw</ApplyTo>
+        <ApplyTo>dljh.tcc.edu.tw</ApplyTo>
+        <ApplyTo>j.dljh.tcc.edu.tw</ApplyTo>
+        <ApplyTo>chhs.hcc.edu.tw</ApplyTo>
+        <ApplyTo>sivs.chc.edu.tw</ApplyTo>
+        <ApplyTo>chsc.chc.edu.tw</ApplyTo>
+        <ApplyTo>h.kcbs.ntpc.edu.tw</ApplyTo>
+        <ApplyTo>j.kcbs.ntpc.edu.tw</ApplyTo>
+        <ApplyTo>shinmin.tc.edu.tw</ApplyTo>
+
     </UDM>
 
     <UDM Url="https://module.ischool.com.tw/module/137815/exam/udm.xml">
         <ApplyTo>dev.sh_d</ApplyTo>
+        <ApplyTo>test.hc.edu.tw</ApplyTo>
+        <ApplyTo>h.trialschool.tw</ApplyTo>
+        <ApplyTo>dljh.tcc.edu.tw</ApplyTo>
+        <ApplyTo>j.dljh.tcc.edu.tw</ApplyTo>
+        <ApplyTo>chhs.hcc.edu.tw</ApplyTo>
+        <ApplyTo>sivs.chc.edu.tw</ApplyTo>
+        <ApplyTo>chsc.chc.edu.tw</ApplyTo>
+        <ApplyTo>h.kcbs.ntpc.edu.tw</ApplyTo>
+        <ApplyTo>j.kcbs.ntpc.edu.tw</ApplyTo>
+        <ApplyTo>shinmin.tc.edu.tw</ApplyTo>
     </UDM> 
 
 </UDMInstall>
