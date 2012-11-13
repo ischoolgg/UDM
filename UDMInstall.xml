@@ -14,6 +14,8 @@
         <ApplyTo>h.kcbs.ntpc.edu.tw</ApplyTo>
         <ApplyTo>j.kcbs.ntpc.edu.tw</ApplyTo>
         <ApplyTo>shinmin.tc.edu.tw</ApplyTo>
+        <ApplyTo>demo.ischool.h</ApplyTo>
+        <ApplyTo>demo.ischool.j</ApplyTo>
     </UDM>
 
     <UDM Url="https://module.ischool.com.tw/module/137815/AttendanceDiscipline/udm.xml">
@@ -28,7 +30,8 @@
         <ApplyTo>h.kcbs.ntpc.edu.tw</ApplyTo>
         <ApplyTo>j.kcbs.ntpc.edu.tw</ApplyTo>
         <ApplyTo>shinmin.tc.edu.tw</ApplyTo>
-
+        <ApplyTo>demo.ischool.h</ApplyTo>
+        <ApplyTo>demo.ischool.j</ApplyTo>
     </UDM>
 
     <UDM Url="https://module.ischool.com.tw/module/137815/exam/udm.xml">
@@ -43,6 +46,8 @@
         <ApplyTo>h.kcbs.ntpc.edu.tw</ApplyTo>
         <ApplyTo>j.kcbs.ntpc.edu.tw</ApplyTo>
         <ApplyTo>shinmin.tc.edu.tw</ApplyTo>
+        <ApplyTo>demo.ischool.h</ApplyTo>
+        <ApplyTo>demo.ischool.j</ApplyTo>
     </UDM> 
 
 </UDMInstall>
