@@ -52,5 +52,13 @@
         <ApplyTo>demo.ischool.h</ApplyTo>
         <ApplyTo>demo.ischool.j</ApplyTo>
     </UDM> 
+    
+    <UDM Url="https://module.ischool.com.tw/module/89/LearningConsultant/udm.xml">
+        <ApplyTo>demo.ischool.h</ApplyTo>
+        <ApplyTo>demo.ischool.j</ApplyTo>
+        <ApplyTo>j.trialschool.tw</ApplyTo>
+        <ApplyTo>h.trialschool.tw</ApplyTo>
+        <ApplyTo>test.kh.edu.tw</ApplyTo>
+    </UDM>
 
 </UDMInstall>
