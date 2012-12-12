@@ -17,6 +17,7 @@
         <ApplyTo>shinmin.tc.edu.tw</ApplyTo>
         <ApplyTo>demo.ischool.h</ApplyTo>
         <ApplyTo>demo.ischool.j</ApplyTo>
+        <ApplyTo>iclassroom.knsh.com.tw</ApplyTo>
     </UDM>
 
     <UDM Url="https://module.ischool.com.tw/module/137815/AttendanceDiscipline/udm.xml">
@@ -34,6 +35,7 @@
         <ApplyTo>shinmin.tc.edu.tw</ApplyTo>
         <ApplyTo>demo.ischool.h</ApplyTo>
         <ApplyTo>demo.ischool.j</ApplyTo>
+        <ApplyTo>iclassroom.knsh.com.tw</ApplyTo>
     </UDM>
 
     <UDM Url="https://module.ischool.com.tw/module/137815/exam/udm.xml">
@@ -51,7 +53,44 @@
         <ApplyTo>shinmin.tc.edu.tw</ApplyTo>
         <ApplyTo>demo.ischool.h</ApplyTo>
         <ApplyTo>demo.ischool.j</ApplyTo>
-    </UDM> 
+        <ApplyTo>iclassroom.knsh.com.tw</ApplyTo>
+    </UDM>
+
+    <UDM Url="https://module.ischool.com.tw/module/137815/CampusLiteDirectory/udm.xml">
+        <ApplyTo>dev.sh_d</ApplyTo>
+        <ApplyTo>test.hc.edu.tw</ApplyTo>
+        <ApplyTo>h.trialschool.tw</ApplyTo>
+        <ApplyTo>dljh.tcc.edu.tw</ApplyTo>
+        <ApplyTo>j.dljh.tcc.edu.tw</ApplyTo>
+        <ApplyTo>chhs.hcc.edu.tw</ApplyTo>
+        <ApplyTo>sivs.chc.edu.tw</ApplyTo>
+        <ApplyTo>n.sivs.chc.edu.tw</ApplyTo>
+        <ApplyTo>chsc.chc.edu.tw</ApplyTo>
+        <ApplyTo>h.kcbs.ntpc.edu.tw</ApplyTo>
+        <ApplyTo>j.kcbs.ntpc.edu.tw</ApplyTo>
+        <ApplyTo>shinmin.tc.edu.tw</ApplyTo>
+        <ApplyTo>demo.ischool.h</ApplyTo>
+        <ApplyTo>demo.ischool.j</ApplyTo>
+        <ApplyTo>iclassroom.knsh.com.tw</ApplyTo>
+    </UDM>
+    
+    <UDM Url="https://module.ischool.com.tw/module/137815/CampusLiteMessage/udm.xml">
+        <ApplyTo>dev.sh_d</ApplyTo>
+        <ApplyTo>test.hc.edu.tw</ApplyTo>
+        <ApplyTo>h.trialschool.tw</ApplyTo>
+        <ApplyTo>dljh.tcc.edu.tw</ApplyTo>
+        <ApplyTo>j.dljh.tcc.edu.tw</ApplyTo>
+        <ApplyTo>chhs.hcc.edu.tw</ApplyTo>
+        <ApplyTo>sivs.chc.edu.tw</ApplyTo>
+        <ApplyTo>n.sivs.chc.edu.tw</ApplyTo>
+        <ApplyTo>chsc.chc.edu.tw</ApplyTo>
+        <ApplyTo>h.kcbs.ntpc.edu.tw</ApplyTo>
+        <ApplyTo>j.kcbs.ntpc.edu.tw</ApplyTo>
+        <ApplyTo>shinmin.tc.edu.tw</ApplyTo>
+        <ApplyTo>demo.ischool.h</ApplyTo>
+        <ApplyTo>demo.ischool.j</ApplyTo>
+        <ApplyTo>iclassroom.knsh.com.tw</ApplyTo>
+    </UDM>
     
     <UDM Url="https://module.ischool.com.tw/module/89/LearningConsultant/udm.xml">
         <ApplyTo>demo.ischool.h</ApplyTo>
