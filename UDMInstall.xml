@@ -100,6 +100,7 @@
         <ApplyTo>demo.ischool.h</ApplyTo>
         <ApplyTo>demo.ischool.j</ApplyTo>
         <ApplyTo>iclassroom.knsh.com.tw</ApplyTo>
+        <ApplyTo>siteserver.com.tw</ApplyTo>
     </UDM>
     
     <UDM Url="https://module.ischool.com.tw/module/89/LearningConsultant/udm.xml">
