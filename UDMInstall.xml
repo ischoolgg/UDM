@@ -98,6 +98,7 @@
         <ApplyTo>siteserver.com.tw</ApplyTo>
         <ApplyTo>wvs.hc.edu.tw</ApplyTo>
         <ApplyTo>dr-cloud.net</ApplyTo>
+        <ApplyTo>rmzlps.com</ApplyTo>
     </UDM>
     
     <UDM Url="https://module.ischool.com.tw/module/137815/CampusLiteStaff/udm.xml">
@@ -109,6 +110,7 @@
         <ApplyTo>iclassroom.knsh.com.tw</ApplyTo>
         <ApplyTo>siteserver.com.tw</ApplyTo>
         <ApplyTo>wvs.hc.edu.tw</ApplyTo>
+        <ApplyTo>rmzlps.com</ApplyTo>
     </UDM>
     
     <UDM Url="https://module.ischool.com.tw/module/89/LearningConsultant/udm.xml">
@@ -119,7 +121,7 @@
         <ApplyTo>test.kh.edu.tw</ApplyTo>
     </UDM>
     <UDM Url="https://module.ischool.com.tw/module/63816/cybertutor_production/udm.xml">
+    	<ApplyTo>siteserver.com.tw</ApplyTo>
         <ApplyTo>rmzlps.com</ApplyTo>
-        <ApplyTo>siteserver.com.tw</ApplyTo>
     </UDM>
 </UDMInstall>
