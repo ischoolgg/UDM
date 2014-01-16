@@ -125,4 +125,7 @@
     	<ApplyTo>siteserver.com.tw</ApplyTo>
         <ApplyTo>rmzlps.com</ApplyTo>
     </UDM>
+      <UDM Url="http://module.ischool.com.tw/module/137815/EMBA_Student/udm.xml">
+    	<ApplyTo>emba.ntu.edu.tw</ApplyTo>
+    </UDM>
 </UDMInstall>
